@@ -1,0 +1,29 @@
+{
+  "name": "tipi",
+  "version": "0.0.0",
+  "description": "TItanium Package Installer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dawicorti/tipi.git"
+  },
+  "keywords": [
+    "titanium",
+    "package",
+    "installer",
+    "tetanize",
+    "npm"
+  ],
+  "author": "David Corticchiato",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dawicorti/tipi/issues"
+  },
+  "dependencies": {
+    "npm": "~1.3.11",
+    "tetanize": "0.0.3"
+  }
+}
