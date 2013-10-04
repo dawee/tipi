@@ -1,4 +1,0 @@
-tipi
-====
-
-TItanium Package Installer
